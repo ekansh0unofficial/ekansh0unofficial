@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ekansh Mittal</h1>
 <h3 align="center">🎯 Flutter Developer | Backend Technologies | GenAi Engineer | Problem Solver | Tech Explorer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekansh0unofficial" alt="ekansh0unofficial" /></a> </p>
 
 - 📫 How to reach me **ekansh.official1@gmail.com**
 
