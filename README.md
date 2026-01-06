@@ -1,24 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ekansh Mittal</h1>
-<h3 align="center">🎯 Flutter Developer | Backend Technologies | GenAi Engineer | Problem Solver | Tech Explorer</h3>
+# Hey! 👋 I'm Ekansh Mittal
 
+<div align="center">
 
-- 📫 How to reach me **ekansh.official1@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ekansh-mittal-ba87a224)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://ekansh0unofficial.github.io/resume)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ekansh.official1@gmail.com)
 
-- 📄 Know about my experiences [Portfolio webpage](https://ekansh0unofficial.github.io/resume/)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mitt1126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitt1126" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ekansh-mittal-ba87a224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekansh-mittal-ba87a224" height="30" width="40" /></a>
-<a href="https://medium.com/@ekanshmittal04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ekanshmittal04" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ekansh_mittal1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ekansh_mittal1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ekansh_mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ekansh_mittal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/b422026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="b422026" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=600&lines=Flutter+Engineer;Backend+Systems+Developer;Applied+GenAI+Explorer;Open+Source+Contributor" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-<h3 alighn="left"> Profile Summary: </h3>
-<p align="left"><a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekansh0unofficial&theme=github"></p>
+---
 
+## 👨‍💻 About Me
 
+**Flutter Developer | Backend Engineer | Applied GenAI Enthusiast**
+
+I build **production-grade Flutter applications** backed by **clean backend systems**, with a strong interest in **architecture, state management, and developer experience**.
+
+I actively contribute to **open source (Checkstyle)**, where I’ve learned how large codebases are maintained, reviewed, and evolved over time. I care about **correctness, clarity, and long-term maintainability** more than quick hacks.
+
+Currently exploring:
+- Conversational & intent-driven systems  
+- Applied GenAI (rule-based → model-assisted pipelines)  
+- Backend architecture & data modeling  
+- OSS workflows and review culture  
+
+I prefer **systems that scale in complexity**, not just code that compiles.
+
+---
+
+## 📊 Live GitHub Statistics
+
+<div align="center">
+
+### 📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ekansh0unofficial&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true)
+
+### 📅 Profile Overview
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekansh0unofficial&theme=github_dark)
+
+</div>
+
+---
+
+## 🎯 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekansh0unofficial&theme=github_dark" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ekansh0unofficial&theme=github_dark&utcOffset=5.5" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekansh0unofficial&theme=github_dark" width="30%"/>
+
+</div>
+
+---
+
+## 🛠️ Technical Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Frameworks & Platforms
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Backend & Data
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📫 Let’s Connect
+
+<div align="center">
+
+**💬 Interested in discussing:**  
+Flutter Architecture • Backend Systems • Open Source • GenAI • Clean Code
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ekansh--mittal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekansh-mittal-ba87a224)
+[![Email](https://img.shields.io/badge/Email-ekansh.official1-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekansh.official1@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-b422026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/b422026)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ekansh__mittal-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ekansh_mittal)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=120&section=footer"/>
+
+**“Good systems are designed, not patched.”**
+
+</div>
